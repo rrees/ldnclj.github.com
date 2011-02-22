@@ -14,3 +14,9 @@ The dojos are sometimes proceeded by lightning talks and we do intend to have mo
 ## Talk to us
 
 There is [London Clojurions Google group](http://groups.google.com/group/london-clojurians) where you discuss any projects you are working on, any events the user group should be putting on and how much you &hearts; Emacs.
+
+## Meet us
+
+The Clojure dojo is held on the last Tuesday of every month. Sign up is via EventWax.
+
+You can change.
